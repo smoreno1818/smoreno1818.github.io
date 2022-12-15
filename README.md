@@ -3,6 +3,7 @@ Assignment 06 Submission for Sebastian Moreno (2 files)
 
 # Module06 Website
 ---
-[Google Homepage](https://www.google.com "Google's Homepage")
-[GitHub Webpage Code CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-![image](https://user-images.githubusercontent.com/117882847/207507116-aba48a63-26ab-4a12-8c0e-c2ae413478cf.png)
+[Sebastian Moreno's GitHub Page](https://github.com/smoreno1818/smoreno1818.github.io "Moreno's Github Link")
+[GitHub HomePage](https://github.com/)
+<img width="434" alt="Screen Shot 2022-09-05 at 2 23 41 AM" src="https://user-images.githubusercontent.com/117882847/207753454-e4d0108b-31d6-4cc3-8596-936ab67d4c7f.png">
+
